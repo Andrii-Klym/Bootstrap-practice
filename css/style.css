@@ -1,0 +1,25 @@
+a.logo-text {
+    font-size: 40px;
+}
+
+.head_item {
+    font-size: 20px;
+}
+
+.nav-btn {
+    background-color: #343a40 !important;
+}
+
+.head__button {
+    background-color: #ff7f50 !important;
+    border: none !important;
+}
+
+.section_game, footer {
+    background-color: #343a40;
+}
+
+.email__btn {
+    background-color: #ff7f50 !important;
+    border: none !important;
+}
